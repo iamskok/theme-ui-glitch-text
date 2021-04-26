@@ -14,6 +14,6 @@
     "@babel/core": "^7.9.6",
     "@babel/preset-env": "^7.9.6",
     "@babel/preset-react": "^7.9.4",
-    "theme-ui": "^0.3.1"
+    "theme-ui": "^0.7.0"
   }
 }
